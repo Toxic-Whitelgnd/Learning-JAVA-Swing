@@ -59,3 +59,7 @@
 ## JComboBox
 > a component that can be used to combine a button or editable field and dropdown list.
 
+## JSlider
+> gui component that lets user enter a value by using an adjustable sliding knob on a track
+
+
