@@ -62,4 +62,8 @@
 ## JSlider
 > gui component that lets user enter a value by using an adjustable sliding knob on a track
 
+## JProgressBar
+> visual aid to let the user know that an operation is processing.
 
+## JMenuBar
+> 
