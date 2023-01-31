@@ -66,4 +66,25 @@
 > visual aid to let the user know that an operation is processing.
 
 ## JMenuBar
-> 
+> A menubar is used to choos e the menu 
+
+## JFileMenu
+> A gui mechanisim that lets the user to choose the file
+
+## JColorChooser
+> A gui mechanisim to choose the color that wish by the user
+
+## KeyEvents
+> used to get the key with that we can do the required action
+> `keyTyped`
+> `keyPressed`
+> `keyReleased`
+
+## MouseEvents
+>  used to play with the mouse moving events
+> `mouseMoved`
+> `mouseClicked`
+> `mouseEntered`
+> `mouseExited`
+> `mousePressed`
+
